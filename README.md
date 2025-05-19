@@ -45,7 +45,7 @@ This project involves analyzing and visualizing COVID-19 data using Python. The 
 
 - `covid_global_tracker.ipynb` – Jupyter Notebook containing the full analysis and visualizations.
 - `requirements.txt` – List of Python packages required to run the notebook.
-
+- `owid-covid-data.csv` - The data that working with for this project.
 ---
 
 ## 🔧 Setup Instructions
